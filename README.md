@@ -36,7 +36,7 @@ Aron Collados Torres | 626558
 Diego Sánchez Castillo | 628279 | [repo](https://github.com/diegozgz92/Laboratory-5-SOA)
 Rubén Gabás Celimendiz | 590738 | [repo](https://github.com/PhyrionX/Laboratory-5-SOA)
 Daniel Forcén Esteban | 558471
-Ramón José Arellano Bitrián | 594040
+Ramón José Arellano Bitrián | 594040 | [repo](https://github.com/Enrohk/Laboratory-5-SOA)
 Daniel Uroz | 545338
 Jorge Berdún Udina | 591454 | [repo] (https://github.com/nerok96/Laboratory-5-SOA)
 Guillermo Pérez García | 610382 | [repo](https://github.com/guillepg/Laboratory-5-SOA)
